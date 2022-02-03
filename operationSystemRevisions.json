@@ -2,20 +2,20 @@
     {
         "platform": "linux",
         "architecture": "x64",
-        "revision": "756066"
+        "revision": "938549"
     },
     {
         "platform": "win32",
         "architecture": "x32",
-        "revision": "756065"
+        "revision": "938534"
     },
     {
         "platform": "win32",
         "architecture": "x64",
-        "revision": "756057"
+        "revision": "938545"
     },
     {
         "platform": "darwin",
-        "revision": "756053"
+        "revision": "938545"
     }
 ]
