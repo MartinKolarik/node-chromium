@@ -1,6 +1,6 @@
 {
   "name": "chromium-binary",
-  "version": "101.0.4951-54",
+  "version": "106.0.5249-61",
   "description": "Chromium binaries (chromium version corresponds to package version) for Node.js projects",
   "repository": "2do2go/node-chromium",
   "main": "index.js",
